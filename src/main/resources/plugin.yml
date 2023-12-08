@@ -1,0 +1,9 @@
+name: CrowdFans
+main: me.wickyplays.spigot.crowdfans.CrowdFansPlugin
+version: 1.0
+api-version: 1.13
+commands:
+  fans:
+    usage: /fans
+    aliases: [fans, crowdfans]
+    description: Fan commands
